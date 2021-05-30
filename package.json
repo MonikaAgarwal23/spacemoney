@@ -1,11 +1,11 @@
 {
-    "title": "Clean Blog",
+    "title": "Money Space",
     "name": "startbootstrap-money-space",
-    "version": "5.0.10",
+    "version": "1.0.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
+    "description": "Money Space is a Medium inspired blog theme for Bootstrap.",
     "keywords": [
         "css",
         "sass",

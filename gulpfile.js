@@ -99,7 +99,7 @@ function js() {
       './js/*.js',
       '!./js/*.min.js',
       '!./js/contact-me.js',
-      '!./js/jqBootstrapValidation.js'
+      '!./js/jq-bootstrap-validation.js'
     ])
     .pipe(uglify())
     .pipe(header(banner, {
